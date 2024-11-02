@@ -15,7 +15,6 @@
 # Feel free to customize ie: remove/change/add containers as needed - one size does not fit all
 
 ---
-version: "3.0"
 
 networks: #This is used if you have a reverse proxy. I use Nginx Proxy Manager but anything will do
   proxy: #You can remove this block if you are not planning to use a vpn
